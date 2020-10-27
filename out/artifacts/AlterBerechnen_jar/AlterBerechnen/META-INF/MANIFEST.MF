@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-Description: A Java library to parse command line options
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0
+Export-Package: com.beust.jcommander.converters;version="1.72",com.beu
+ st.jcommander.defaultprovider;version="1.72",com.beust.jcommander;ver
+ sion="1.72",com.beust.jcommander.internal;version="1.72",com.beust.jc
+ ommander.validators;version="1.72"
+Build-Date: 2017-05-15
+Bundle-SymbolicName: jcommander
+Bundle-Version: 1.72
+Bundle-Name: com.beust.jcommander
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1494874807778
+Created-By: 1.8.0_111 (Oracle Corporation)
+Tool: Bnd-2.4.0.201411031534
+
