@@ -6,11 +6,8 @@ import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
 
 import java.text.SimpleDateFormat;
-import java.util.Date;
-
 
 public class ArgsHandler {
-
     @Parameter(names = {"--date", "-d"}, required = true)
     public String dateString;
 
@@ -37,7 +34,7 @@ public class ArgsHandler {
                             + "und " + period.getDays() + " Tage "
                             + "das sind " + totalDays + " Tage");
 
-        } catch (IllegalFieldValueException e) {
+        } catch (Exception e) {
             System.out.println("Dieser Tag ist nicht möglich");
             System.exit(0);
         }

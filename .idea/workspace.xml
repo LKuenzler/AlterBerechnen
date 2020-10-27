@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e02d6c-6fd5-4263-b4f0-af24bafc3ace" name="Default Changelist" comment="" />
+    <list default="true" id="18e02d6c-6fd5-4263-b4f0-af24bafc3ace" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/tbz/ArgsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/tbz/ArgsHandler.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -27,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1jSg5qCHchruqsY0R2KLiUp5uBj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
@@ -57,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603802726563</updated>
       <workItem from="1603802729503" duration="1583000" />
-      <workItem from="1603804353441" duration="3720000" />
+      <workItem from="1603804353441" duration="4323000" />
     </task>
     <servers />
   </component>
@@ -85,9 +94,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="33" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603803769547" />
-    <state x="385" y="196" key="search.everywhere.popup" timestamp="1603805396242">
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1603808298384">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603805396242" />
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603808298384" />
   </component>
 </project>
